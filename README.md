@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @tanujch03
-- I’m interested in Problem solving...
-- I’m currently learning Data Structures and Algorithms...
-- I’m looking to collaborate on various AI, Data Science related projects...
+### Hi there 👋
+I'm Tanuj Chaganti from an aspiring Software Engineer from 🇮🇳 India.
 
 
 
