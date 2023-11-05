@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tanuj Chaganti from an aspiring Software Engineer from 🇮🇳 India.
+I'm Tanuj Chaganti an aspiring Software Engineer from 🇮🇳 India.
 
 
 
