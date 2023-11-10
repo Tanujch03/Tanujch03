@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **tanujchaganti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19uRmNo6Iw_MNfUGsGrN0tdJZy8oX_2OX/view?usp=drive_link](https://drive.google.com/file/d/19uRmNo6Iw_MNfUGsGrN0tdJZy8oX_2OX/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tanuj chaganti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanuj chaganti" height="30" width="40" /></a>
