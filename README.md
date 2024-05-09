@@ -5,9 +5,6 @@
 
 <p align="left">A developer trying to arrange 0's and 1's to make awesome software</p>
 
-###
-
-<h2 align="left">About me</h2>
 
 
 
