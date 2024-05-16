@@ -8,7 +8,7 @@
 
 
 
-<h3>Languages</h3>
+<h4>Languages</h4>
 <ul>
   <li>Javascript</li>
   <li>Python</li>
@@ -16,11 +16,10 @@
 </ul>
 
 
-<h3>Databases</h3>
+<h4>Databases</h4>
 <ul>
   <li>MongoDB</li>
   <li>MySQL</li>
-  
 </ul>
 
 
