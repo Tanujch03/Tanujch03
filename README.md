@@ -8,4 +8,20 @@
 
 
 
+<h3>Languages</h3>
+<ul>
+  <li>Javascript</li>
+  <li>Python</li>
+  <li>Java</li>
+</ul>
+
+
+<h3>Databases</h3>
+<ul>
+  <li>MongoDB</li>
+  <li>MySQL</li>
+  
+</ul>
+
+
 
