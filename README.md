@@ -18,7 +18,7 @@
           <li>Java</li>
         </ul>
       </td>
-      <td style="padding: 10px;">
+      <td>
         <h4>Framework</h4>
         <ul>
           <li>ReactJS</li>
