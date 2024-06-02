@@ -10,7 +10,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td style="padding: 10px;">
         <h4>Languages</h4>
         <ul>
           <li>Javascript</li>
@@ -18,13 +18,13 @@
           <li>Java</li>
         </ul>
       </td>
-      <td>
+      <td style="padding: 10px;">
         <h4>Framework</h4>
         <ul>
           <li>ReactJS</li>
         </ul>
       </td>
-      <td>
+      <td style="padding: 10px;">
         <h4>Databases</h4>
         <ul>
           <li>MongoDB</li>
