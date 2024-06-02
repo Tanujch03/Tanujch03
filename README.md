@@ -7,30 +7,3 @@
 
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding: 10px;">
-        <h4>Languages</h4>
-        <ul>
-          <li>Javascript</li>
-          <li>Python</li>
-          <li>Java</li>
-        </ul>
-      </td>
-      <td>
-        <h4>Framework</h4>
-        <ul>
-          <li>ReactJS</li>
-        </ul>
-      </td>
-      <td style="padding: 10px;">
-        <h4>Databases</h4>
-        <ul>
-          <li>MongoDB</li>
-          <li>MySQL</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
