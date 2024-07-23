@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">A developer trying to arrange 0's and 1's to make awesome software</p>
+<p align="left">A developer trying to arrange 0's and 1's</p>
 
 
 
